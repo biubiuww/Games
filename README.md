@@ -19,7 +19,7 @@ This repository is created just for learning python(Commercial prohibition).
 |   Game4   |     Skier                   |   [click](https://github.com/CharlesPikachu/Games/tree/master/Game4)      |   [click](https://mp.weixin.qq.com/s/2MVTEa4ut9TOAgBOOWEUSg) |
 |   Game5   |     Tank War                |   [click](https://github.com/CharlesPikachu/Games/tree/master/Game5)      |   [click](https://mp.weixin.qq.com/s/1xXULpT36P7LTO5HDbjptg) |
 |   Game6   |     FlappyBird              |   [click](https://github.com/CharlesPikachu/Games/tree/master/Game6)      |   [click](https://mp.weixin.qq.com/s/44CZjwvjnH0kkkKIn5U9Uw) |
-|   Game7   |     T-Rex Rush              |   [click](https://github.com/CharlesPikachu/Games/tree/master/Game7)      |   [click](https://mp.weixin.qq.com/s/jpIJWXrW6O35cfELeplOtQ) |
+|   Game7   |     T-Rex Rush              |   [click](https://github.com/CharlesPikachu/Games/tree/master/Game7)      |   [click](https://mp.weixin.qq.com/s/PnvcSBe0Va3GVIodGIjYRg) |
 |   Game8   |     Tower Defense           |   [click](https://github.com/CharlesPikachu/Games/tree/master/Game8)	  |   [click](https://mp.weixin.qq.com/s/mcnN3dF5tzWlRg91cnWTEw) |
 |   Game9   |     Catch apples and coins  |   [click](https://github.com/CharlesPikachu/Games/tree/master/Game9)	  |   [click](https://mp.weixin.qq.com/s/rrdvDh603D2S9jW27cGWdQ) |
 |   Game10  |     Aircraft war            |   [click](https://github.com/CharlesPikachu/Games/tree/master/Game10)     |   [click](https://mp.weixin.qq.com/s/n-f_6sh8bB7-dtIFJLbnFg) |
@@ -37,6 +37,7 @@ This repository is created just for learning python(Commercial prohibition).
 |   Game22  |     Gobang                  |   [click](https://github.com/CharlesPikachu/Games/tree/master/Game22)     |   [click](https://mp.weixin.qq.com/s/79aBuK_EytVAbDp5hY8cHA) |
 |   Game23  |     2048                    |   [click](https://github.com/CharlesPikachu/Games/tree/master/Game23)     |   [click](https://mp.weixin.qq.com/s/WJhg4J0MuuEcmDasRzuE9Q) |
 |   Game24  |     Greedy Snake            |   [click](https://github.com/CharlesPikachu/Games/tree/master/Game24)     |   [click](https://mp.weixin.qq.com/s/YdRLYz4BnfgRZMYqKvDnRA) |
+|   Game25  |     Mine Sweeper            |   [click](https://github.com/CharlesPikachu/Games/tree/master/Game25)     |   [click](https://mp.weixin.qq.com/s/O2nKNsWUigrKomW3l29Zlw) |
 
 # Record
 see RECORD dir please → [click](./RECORD)
